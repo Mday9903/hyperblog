@@ -2,10 +2,6 @@ Esta es la historia de Freddy Vega.
 
 Freddy Vega tiene 32 años y nació en Colombia.
 
-<<<<<<< HEAD
-Paco tiene 41 años y nación en Argentina.
-=======
-Paco tiene 31 años y nación en Argentina.
->>>>>>> a48f75d17a11c9eaf8713d6d2844239539662c16
+Paco es una persona que contribuye en este proyecto open source y nació en internet.
 
 Mañana nos enfocaremos en su vida laboral.
